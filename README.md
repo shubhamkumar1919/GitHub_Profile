@@ -1,5 +1,6 @@
 <h1 align="center">Namaskaar 🙏, I'm Shubham Kumar</h1>
 <h3 align="center">ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ 📊 | ᴛʀᴀᴅᴇʀ 📈</h3>
+<img align = "right" alt "Coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 - 🌱 I’m currently learning **Microsoft Power BI**
 
