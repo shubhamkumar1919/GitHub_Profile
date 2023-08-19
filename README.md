@@ -1,5 +1,5 @@
 <h1 align="center">Namaskaar 🙏, I'm Shubham Kumar</h1>
-<h3 align="center">A Passionate Data Scientist from India</h3>
+<h3 align="center">ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ 📊 | ᴛʀᴀᴅᴇʀ 📈</h3>
 <img align = "right" alt "Coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumar1919&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumar1919" /> </p>
